@@ -1,0 +1,6 @@
+[submodule "src/ackermann_vehicle_base_gazebo"]
+	path = src/ackermann_vehicle_base_gazebo
+	url = https://github.com/EzioPeter/ackermann_vehicle_base_gazebo.git
+[submodule "src/m-explore"]
+	path = src/m-explore
+	url = https://github.com/EzioPeter/m-explore.git
